@@ -21,6 +21,9 @@ The **Color Game** is a fun, interactive Python-based game that tests your focus
    - When the timer runs out, your final score will be displayed.
 
 ---
+## ScreenShot**
+![image](https://github.com/user-attachments/assets/102d8662-bd59-47f9-bd49-f87450dceeb1)
+
 
 ## 🛠️ **Requirements**
 - Python 3.x
